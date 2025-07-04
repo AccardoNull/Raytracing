@@ -21,6 +21,9 @@ A raytracer applies various effects with input files.
 Usage:
 
 Compile: cl raytrace.cpp /FeRayTracer.exe
-Run:     RayTracer.exe input.txt
+
+Run:     RayTracer.exe input.txt, sample input file provided in folder, e.g. testAmbient.txt
+
+Output: e.g. testAmbient.ppm
 
 Dependencies: None (standard C++ STL only)
