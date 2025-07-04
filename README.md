@@ -22,7 +22,8 @@ Usage:
 
 Compile: cl raytrace.cpp /FeRayTracer.exe
 
-Run:     RayTracer.exe input.txt, sample input file provided in folder, e.g. testAmbient.txt
+Run:     RayTracer.exe input.txt 
+Sample input file provided in folder, e.g. testAmbient.txt
 
 Output: e.g. testAmbient.ppm
 
