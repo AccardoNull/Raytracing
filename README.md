@@ -19,6 +19,7 @@ A raytracer applies various effects with input files.
 - Prevents self-shadowing artifacts using ray origin offset (epsilon = 1e-4)
 
 Usage:
+In Command Promot, navigate to the root file.
 
 Compile: cl raytrace.cpp /FeRayTracer.exe
 
