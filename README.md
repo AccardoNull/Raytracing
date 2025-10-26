@@ -1,5 +1,5 @@
 # Raytracing
-A raytracer that generates objects then applies various effects with input files.
+A raytracer that can generate objects then apply over 10 different effects, sample input files included.
 - Perspective camera with user-defined image plane (LEFT, RIGHT, BOTTOM, TOP, NEAR)
 - Resolution control via RES keyword
 - Full scene parsing from input file (supports SPHERE, LIGHT, AMBIENT, BACKGROUND, OUTPUT)
