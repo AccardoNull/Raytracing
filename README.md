@@ -1,5 +1,6 @@
 # Raytracing
 A raytracer that can generate objects then apply different effects, sample input files included.
+
 Features:
 - Perspective camera with user-defined image plane (LEFT, RIGHT, BOTTOM, TOP, NEAR)
 - Resolution control via RES keyword
